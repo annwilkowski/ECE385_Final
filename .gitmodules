@@ -1,0 +1,3 @@
+[submodule "Gameboy"]
+	path = Gameboy
+	url = https://github.com/nightslide7/Gameboy.git
